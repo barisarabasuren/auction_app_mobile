@@ -8,7 +8,7 @@ This document aims to give an overview about the techstack. In addition, the rea
 
 # Related repositories
 
-* the **server** ([respository](https://github.com/barisarabasuren/auction_app_server))
+* the **server** ([respository](https://github.com/barisarabasuren/auction_app_mobile))
 
 ### High-Level Overview
 ![Architecture](./architecture.jpeg?raw=true)
